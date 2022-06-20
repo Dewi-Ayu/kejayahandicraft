@@ -1,0 +1,30 @@
+#gambar {
+    /* background-color: #3B579D; */
+    background-image: url("gambar/topi.jpg");
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+
+#kami {
+    background-image: url("gambar/kami.jpg");
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+
+#shadow {
+    text-shadow: 5px 6px 7px rgb(34, 34, 34);
+    font-size: 40px;
+}
+
+#h1 {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+#slider {
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
